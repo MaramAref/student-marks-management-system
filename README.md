@@ -1,5 +1,5 @@
 
-# 🎓 Student Marks Management System - C++ 
+# 🎓 Student Marks Management System 
 
 A console-based C++ application developed to manage student records, perform mark analysis, and practice clean, modular C++ programming.
 
