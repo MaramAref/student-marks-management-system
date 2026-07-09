@@ -1,6 +1,7 @@
-# Student-Marks-Management-System
 
-A console-based C++ application for managing student records and marks.
+# 🎓 Student Marks Management System - C++ 
+
+A console-based C++ application developed to manage student records, perform mark analysis, and practice clean, modular C++ programming.
 
 Features
 
@@ -29,4 +30,3 @@ Technologies
 - C++
 - Console Application
 
-This project was built to practice problem-solving, clean code principles, and modular program design using C++.
