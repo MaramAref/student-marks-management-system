@@ -30,3 +30,7 @@ Technologies
 - C++
 - Console Application
 
+
+## 🎯 Learning Goal 
+
+This project was developed for educational purposes to strengthen problem-solving skills and practice writing organized, modular C++ programs.
